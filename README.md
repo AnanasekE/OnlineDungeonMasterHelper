@@ -26,3 +26,7 @@ TODO:
 - Navigation: [React Navigation](https://reactnavigation.org/)
 - Styling: [Sass](https://sass-lang.com/)
 
+
+## Useful api's
+- [Open5e](https://open5e.com/)
+- [D&D 5e API](http://www.dnd5eapi.co/)
