@@ -3,8 +3,8 @@ if# OnlineDungeonMasterHelper
 
 This project will be using expo
 
-TODO: 
-- [] Init the project
+TODO:
+- [] Setup the project
 - [] Make the starting tasklist
 - [] 
 
@@ -17,7 +17,12 @@ TODO:
 - [] Notes (campain, session)
 - [] Player stats (names, races, class)
 - [] Saved Monsters (campain, session)
-- [] 
 
 
-db: expo-sqlite
+
+
+# Technologies
+- Database: [expo-sqlite](https://docs.expo.io/versions/latest/sdk/sqlite/)
+- Navigation: [React Navigation](https://reactnavigation.org/)
+- Styling: [Sass](https://sass-lang.com/)
+
