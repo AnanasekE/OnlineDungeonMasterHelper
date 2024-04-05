@@ -7,3 +7,15 @@ TODO:
 - [] Init the project
 - [] Make the starting tasklist
 - [] 
+
+# Page list
+- [] Monster stat viewer
+- [] Rules lookup
+- [] Campaign folders
+
+## Campaign folders
+- [] Notes (campain, session)
+- [] Player stats (names, races, class)
+- [] Saved Monsters (campain, session)
+- [] 
+
