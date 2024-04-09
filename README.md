@@ -6,18 +6,18 @@ This project will be using expo
 TODO:
 - [ ] Setup the project
 - [x] Make the starting tasklist
-- [] Design the basics of the app in figma
+- [ ] Design the basics of the app in figma
 
 # Page list
-- [] Monster stat viewer
-- [] Rules lookup
-- [] Campaign folders
-- [] Equipment and magic items lookup
+- [ ] Monster stat viewer
+- [ ] Rules lookup
+- [ ] Campaign folders
+- [ ] Equipment and magic items lookup
 
 ## Campaign folders
-- [] Notes (campain, session)
-- [] Player stats (names, races, class)
-- [] Saved Monsters (campain, session)
+- [ ] Notes (campain, session)
+- [ ] Player stats (names, races, class)
+- [ ] Saved Monsters (campain, session)
 
 
 
