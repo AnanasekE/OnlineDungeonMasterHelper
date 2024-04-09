@@ -5,8 +5,8 @@ This project will be using expo
 
 TODO:
 - [] Setup the project
-- [] Make the starting tasklist
-- [] 
+- [x] Make the starting tasklist
+- [] Design the basics of the app in figma
 
 # Page list
 - [] Monster stat viewer
