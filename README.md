@@ -12,6 +12,7 @@ TODO:
 - [] Monster stat viewer
 - [] Rules lookup
 - [] Campaign folders
+- [] Equipment and magic items lookup
 
 ## Campaign folders
 - [] Notes (campain, session)
