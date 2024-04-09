@@ -4,7 +4,7 @@ if# OnlineDungeonMasterHelper
 This project will be using expo
 
 TODO:
-- [] Setup the project
+- [ ] Setup the project
 - [x] Make the starting tasklist
 - [] Design the basics of the app in figma
 
