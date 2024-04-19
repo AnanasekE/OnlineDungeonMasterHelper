@@ -4,9 +4,9 @@
 This project will be using expo
 
 TODO:
-- [ ] Setup the project
+- [x] Setup the project
 - [x] Make the starting tasklist
-- [ ] Design the basics of the app in figma
+- [ ] Design the basics of the app in figma (optional)
 
 # Page list
 - [ ] Monster stat viewer
@@ -18,8 +18,6 @@ TODO:
 - [ ] Notes (campain, session)
 - [ ] Player stats (names, races, class)
 - [ ] Saved Monsters (campain, session)
-
-
 
 
 # Technologies
