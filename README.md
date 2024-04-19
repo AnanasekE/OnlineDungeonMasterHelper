@@ -18,7 +18,7 @@ TODO:
 - [ ] Notes (campain, session)
 - [ ] Player stats (names, races, class)
 - [ ] Saved Monsters (campain, session)
-
+- [ ] Maps (images)
 
 # Technologies
 - Database: [expo-sqlite](https://docs.expo.io/versions/latest/sdk/sqlite/)
